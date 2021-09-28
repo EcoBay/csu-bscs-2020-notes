@@ -14,12 +14,14 @@
 * [Sep 23, 2021 - For loops](CS112/2021-sep-23.md)
 
 #### GEC101 - Art Appreciation
-* [Sep 15, 2021 - Introduction to arts](GEC101/2021-sep-15.md)
 * [Sep 20, 2021 - Understanding Arts](GEC101/2021-sep-20.md)
 
 #### GEC102 - Mathematics in the Modern World
 * [Sep 20, 2021 - The Nature of Mathematics](GEC102/2021-sep-20.md)
+* [Sep 27, 2021 - Fibonacci Sequence](GEC102/2021-sep-27.md)
+* [Sep 29, 2021 - (Assignment) Find the nth term of Fibonacci sequence](GEC102/2021-sep-29-0.md)
 
 #### GEC103T - Science, Technology, and Society
 #### NSTP11 - National Service and Training Program 1
 #### PE11C - Physical Activity Towards Health and Fitness 1
+
