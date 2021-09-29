@@ -15,6 +15,7 @@
 
 #### GEC101 - Art Appreciation
 * [Sep 20, 2021 - Understanding Arts](GEC101/2021-sep-20.md)
+* [Sep 29, 2021 - Classifying the Arts](GEC101/2021-sep-29.md)
 
 #### GEC102 - Mathematics in the Modern World
 * [Sep 20, 2021 - The Nature of Mathematics](GEC102/2021-sep-20.md)
@@ -22,6 +23,12 @@
 * [Sep 29, 2021 - (Assignment) Find the nth term of Fibonacci sequence](GEC102/2021-sep-29-0.md)
 
 #### GEC103T - Science, Technology, and Society
+* [Sep 20, 2021 - Introduction to Science and Technology](GEC103T/2021-sep-20.md)
+* [Sep 27, 2021 - Relationship of Science, Technology, Society](GEC103T/2021-sep-27.md)
+
 #### NSTP11 - National Service and Training Program 1
 #### PE11C - Physical Activity Towards Health and Fitness 1
 
+## Contributor
+* [EcoBay](https://github.com/EcoBay)
+* Luwi Galamay
