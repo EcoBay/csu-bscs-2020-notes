@@ -7,6 +7,8 @@
 * [Sep 14, 2021 - What is a Computer](CS111/2021-sep-14.md)
 * [Sep 16, 2021 - (Assignment) History of Computers](CS111/2021-sep-16.md)
 * [Sep 21, 2021 - History of Computers](CS111/2021-sep-21.md)
+* [Oct 14, 2021 - Software and Peopleware](CS111/2021-oct-14.md)
+* [Oct 19, 2021 - (Assignment) Number System](CS111/2021-oct-19.md)
 
 #### CS112 - Computer Programming 1
 * [Sep 16, 2021 - Basic Input, Output, and Datatypes](CS112/2021-sep-16.md)
