@@ -6,7 +6,7 @@ document.getElementById("decimal").onchange = function() {
     decAns.innerHTML = ""
     if (this.value !== "") {
       let bin = ""
-      let table = `<table>
+      let table = `<table class="ans">
   <thead>
     <tr>
       <th>Number</th>
@@ -31,7 +31,6 @@ document.getElementById("decimal").onchange = function() {
       <td>${Math.floor(number / 2)}</td>
       <td>${number % 2}</td>
     </tr>`
-        console.log(bin)
         bin = number % 2 + bin
         number = Math.floor(number / 2)
       }
@@ -47,10 +46,48 @@ document.getElementById("decimal").onchange = function() {
 }
 
 document.getElementById("binary").onchange = function() {
-    if (this.checkValidity()) {
-        binAns.innerHTML = ""
-        // Binary to Hexadecimal here
-    } else {
-        binAns.innerHTML = "<p><strong>Enter a valid binary number that is at most 10 bits</strong></p>"
+    while (this.value?.startsWith("0") && this.value.length !== 1) {
+      this.value = this.value.slice(1)
     }
+
+  if (this.checkValidity()) {
+    binAns.innerHTML = ""
+    if (this.value !== "") {
+      let table = `<table class="ans">
+  <thead>
+    <tr>
+      <th>Bit</th>
+      <th>Weight</th>
+      <th>Bit &times; Weight</th>
+    </tr>
+  </thead>
+  <tbody>`
+      let dec = 0
+
+      for (let i = 0; i < this.value.length; i++) {
+        const bits = this.value[this.value.length - i - 1]
+        const weight = 2 ** i
+        const value = bits === "1" ? weight : 0
+        table += `
+    <tr>
+      <td>${bits}</td>
+      <td>2<sup>${i}</sup> = ${weight}</td>
+      <td>${value}</td>
+    </tr>`
+        dec += value
+      }
+
+      binAns.innerHTML = `<p>${this.value}<sub>2</sub> in decimal is ${dec}<sub>10</sub>`
+      table += `
+    <tr>
+      <th colspan="2">Sum/Decimal</th>
+      <td>${dec}</td>
+    </tr>
+  </tbody>
+</table>`
+      binAns.innerHTML += table
+    }
+  } else {
+    binAns.innerHTML = "<p><strong>Enter a valid binary number that is at most 10 bits</strong></p>"
+  }
 }
