@@ -10,6 +10,7 @@
 * [Oct 05, 2021 - (Assignment) Three Components of Computer System](CS111/2021-oct-05.md)
 * [Oct 14, 2021 - Software and Peopleware](CS111/2021-oct-14.md)
 * [Oct 19, 2021 - (Assignment) Number System](CS111/2021-oct-19.md)
+* [Nov 25, 2021 - Operating System](CS111/2021-nov-25.md)
 
 #### CS112 - Computer Programming 1
 * [Sep 16, 2021 - Basic Input, Output, and Datatypes](CS112/2021-sep-16.md)
@@ -25,6 +26,8 @@
 * [Oct 13, 2021 - Methods of Presenting Arts](GEC101/2021-oct-13.md)
 * [Oct 4, 2021 - Function of Arts](GEC101/2021-oct-04.md)
 * [Oct 20, 2021 - Recognizing the GAMABA and the National Artists](GEC101/2021-oct-20.md)
+* [Nov 17, 2021 - Taking a Glimpse of Art History](GEC101/2021-nov-17.md)
+* [Nov 24, 2021 - Appreciating the Philippine Indigenous Art](GEC101/2021-nov-24.md)
 
 #### GEC102 - Mathematics in the Modern World
 * [Sep 20, 2021 - The Nature of Mathematics](GEC102/2021-sep-20.md)
@@ -34,7 +37,7 @@
 #### GEC103T - Science, Technology, and Society
 * [Sep 20, 2021 - Introduction to Science and Technology](GEC103T/2021-sep-20.md)
 * [Sep 27, 2021 - Relationship of Science, Technology, Society](GEC103T/2021-sep-27.md)
-* [Oct 06, 2021 - Effect of Science and Technology on Society](2021-oct-06.md)
+* [Oct 06, 2021 - Effect of Science and Technology on Society](GEC103T/2021-oct-06.md)
 
 #### NSTP11 - National Service and Training Program 1
 * [Oct 08, 2021 - (Assignment) NSTP and Good Citizenship](NSTP11/2021-oct-08.md)
